@@ -32,7 +32,7 @@ Deploy **Nginx Proxy Manager** using rootless Podman Quadlets.
 # The script:
 
 ## install-podman.sh
-   1. Install Podman 
+   1. Install Podman (written for the Red Hat family of Linux OS)
    2. Opens ports (80 / 443 / 81)  
 
 ## deploy-nginx-quadlet.sh
